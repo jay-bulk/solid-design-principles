@@ -1,0 +1,1 @@
+//TODO add private getters and setters with anmix if public and private to demonstrate scoped variables
