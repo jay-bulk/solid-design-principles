@@ -9,3 +9,5 @@ Planned iterations:
 * v.2: code sandbox available (via example runkit.io) to run the code smaples
 * v.3: code sandbox for all demonstrated languages
 * v.4?: testing examples?
+
+todo: caching principle
